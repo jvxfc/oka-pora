@@ -28,7 +28,7 @@ O principal objetivo do projeto foi colocar em prática os primeiros conceitos d
 
 Quer saber mais visite:
 
-https://ohjr.github.io/oka-pora/
+https://jvxfc.github.io/oka-pora/
 
 ## 📌 Status
 
